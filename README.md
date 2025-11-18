@@ -16,7 +16,7 @@ The dataset originates from the CDC Behavioral Risk Factor Surveillance System (
 For visualization purposes, the dataset is transformed into both long and wide formats and filtered to retain variables relevant to SCD and lifestyle indicators.
 
 ## Directory Structure
-
+```
 cdc-healthy-aging-dashboard/
 ├── README.md
 ├── data/
@@ -29,7 +29,7 @@ cdc-healthy-aging-dashboard/
     ├── cdc-scd-dashboard.twbx
     ├── cdc-tableau-workbook.twb
     └── ~cdc-scd-dashboard__21988.twbr
-
+```
 ## Reproducibility 
 
 To reproduce this analysis 
