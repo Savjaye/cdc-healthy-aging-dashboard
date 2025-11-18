@@ -35,7 +35,7 @@ cdc-healthy-aging-dashboard/
 To reproduce this analysis 
 
 1. Clone or download this repo
-2. Download the [CDC Alzhaimer's Disease and Healthy Aging Dataset](https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv/about_data) and place it in the data/raw/ directory
+2. Download the [CDC Alzhaimer's Disease and Healthy Aging Dataset](https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv/about_data) and place it in data/raw/ 
 3. Install the dependecies using:
 ```bash
 pip install -r requirements.txt
