@@ -37,6 +37,7 @@ To reproduce this analysis
 2. Install hte dependecies using 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Contact 
 If you have questions or want to build on this project, feel free to reach out: savannahjaye00@gmail.com
